@@ -13,7 +13,8 @@
         "october/cms": "^2.0",
         "october/media": "^2.0",
         "october/editor": "^2.0",
-        "kenshin/kenshinschool-theme": "^1.0"
+        "kenshin/kenshinschool-theme": "^1.0",
+        "rainlab/blog-plugin": "^1.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0|^9.0",
